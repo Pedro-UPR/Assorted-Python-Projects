@@ -1,0 +1,22 @@
+Game Mechanics
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+I   Sword   Deals a moderate damage every time,
+            
+
+II  Dagger  Has base damage of 30 but can
+            be boosted by +10, +20 ... +100
+            Will be boosted 1/x times
+            
+III Spell   Has a 1/10 chance of dealing
+            160 damage, does nothing
+            9/10 times
+
+IV  Block   Reduces incoming damage by 50%, has
+            a 1/x chance of blocking all damage
+            and stunning enemy
+
+V   Dodge   Has a 1/x chance of negating
+            all damage
+
+VI  Heal    If health is below maximum,
+            restore full hp
